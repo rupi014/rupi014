@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi there 👋! Soy Rubens</h1> 
+<h1 align="center">¡Hey 👋! Soy Rubens 👨🏻‍💻</h1> 
 <br>
 ¡Bienvenido a mi perfil! Soy un apasionado estudiante de programación con una sólida comprensión de HTML, CSS, Git y GitHub y actualmente estoy inmerso en el fascinante mundo de Python, Javascript y React. 
 <br>
