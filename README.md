@@ -1,6 +1,6 @@
 <h1 align="center">¡Hi there 👋! Soy Rubens</h1> 
 <br>
-¡Bienvenido a mi perfil! Soy un apasionado estudiante de programación con una sólida comprensión de HTML y CSS, y actualmente estoy inmerso en el fascinante mundo de Python, Javascript y React.
+¡Bienvenido a mi perfil! Soy un apasionado estudiante de programación con una sólida comprensión de HTML y CSS, y actualmente estoy inmerso en el fascinante mundo de Python, Javascript y React. 
 <br>
 <br>
 <h2 align="center">Sobre mí</h2>
@@ -14,8 +14,9 @@
 
 - ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/20px-HTML5_Badge.svg.png) HTML5: Creación de estructuras sólidas y semánticas para páginas web.
 - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png) CSS3: Diseño y estilización de páginas web, haciendo que sean atractivas y responsivas.
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/20px-Unofficial_JavaScript_logo_2.svg.png) JavaScript: En proceso de dominar esta poderosa herramienta para añadir interactividad y dinamismo a mis proyectos.
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/20px-Python-logo-notext.svg.png) Python: Explorando el amplio abanico de aplicaciones que ofrece este lenguaje versátil y amigable.
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/20px-Unofficial_JavaScript_logo_2.svg.png) JavaScript: En proceso de dominar esta poderosa herramienta para añadir interactividad y dinamismo a mis proyectos.
+- ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png) **React**: Aprendiendo sobre la construcción de interfaces de usuario dinámicas y escalables utilizando esta poderosa biblioteca de JavaScript.
 
 
 <br>
