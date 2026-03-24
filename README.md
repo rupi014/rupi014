@@ -14,7 +14,38 @@ Combino mi experiencia previa como terapeuta ocupacional y líder de equipos —
 - 🚀 Me mueven las ganas de aprender, compartir conocimiento y participar en proyectos donde la seguridad y la calidad del software sean clave. 
 
 <br>
-<h2 align="center">Mis habilidades</h2>
+
+<h2 align="center">🔒 Habilidades Ciberseguridad</h2>
+
+<br>
+
+<div align="center">
+
+| **Ofensiva** | **Defensiva** | **Infraestructura** |
+|--------------|---------------|-------------------|
+| 🔴 **Red Team** | 🛡️ **Blue Team** | 📡 **Wireless** |
+| 🎯 **Pentesting** | 📊 **SIEM** | ☁️ **Cloud** |
+| 🔍 **Vulnerabilidades** | 🩺 **Forense** | 🔐 **Criptografía** |
+| 🕵️ **OSINT** | ⚖️ **ISO 27001** | 🌐 **Redes OSI** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![eJPTv2](https://img.shields.io/badge/eJPTv2-Junior_Pentester-00AEEF?style=for-the-badge&logo=ine-security)](https://ine.com/)
+[![CEHPC](https://img.shields.io/badge/CEHPC-Ethical_Hacking-ff6b35?style=for-the-badge&logo=certiprof)](https://certiprof.com/)
+[![LCSPC](https://img.shields.io/badge/LCSPC-Lead_Cybersecurity-4CAF50?style=for-the-badge&logo=certiprof)](https://certiprof.com/)
+[![ISO27001F](https://img.shields.io/badge/ISO%2027001-Foundation-2196F3?style=for-the-badge&logo=iso)](https://www.iso.org/)
+[![ISO27001LA](https://img.shields.io/badge/ISO%2027001-Lead_Auditor-9C27B0?style=for-the-badge&logo=iso)](https://www.iso.org/)
+[![ICCA](https://img.shields.io/badge/ICCA-Cloud_Associate-673AB7?style=for-the-badge&logo=cloud)](https://certiprof.com/)
+
+</div>
+
+<br>
+
+<h2 align="center">👨‍💻 Habilidades Programación</h2>
 
 - ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/20px-HTML5_Badge.svg.png) <b>HTML</b>: Maquetación semántica y estructuración clara de interfaces web. 
 - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png) <b>CSS</b>: Estilos modernos y diseño responsivo orientado a la usabilidad. 
@@ -25,11 +56,7 @@ Combino mi experiencia previa como terapeuta ocupacional y líder de equipos —
 - ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png) <b>React</b>: Creación de SPA, componentes reutilizables y consumo de APIs REST. 
 
 <br>
-<h2 align="center">Ciberseguridad</h2>
 
-- 🔐 Pentesting, auditorías y análisis de vulnerabilidades (eJPTv2 – Junior Penetration Tester). 
-- 🛡️ Blue/Red Team, análisis de redes, SIEM y bases de criptografía. 
-- 📚 Certificaciones y formación continua en hacking ético, cloud y normativas ISO/IEC 27001. 
 
 <br>
 <h2 align="center">Contacto</h2>
