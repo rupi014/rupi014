@@ -1,35 +1,44 @@
 <h1 align="center">¡Hey 👋! Soy Rubens 👨🏻‍💻</h1> 
 <br>
-¡Bienvenido a mi perfil! Soy un apasionado estudiante de programación con una sólida comprensión de HTML, CSS, Git y GitHub y actualmente estoy inmerso en el fascinante mundo de Python, Javascript y React. 
+Soy técnico en ciberseguridad y desarrollador en formación, en plena transición profesional desde el ámbito sociosanitario hacia la protección de sistemas y el desarrollo de soluciones seguras. [file:1]
+<br>
+Combino mi experiencia previa como terapeuta y líder de equipos —pensamiento crítico, gestión de crisis y comunicación— con una fuerte orientación práctica a la ciberseguridad ofensiva y defensiva. [file:1]
 <br>
 <br>
+
 <h2 align="center">Sobre mí</h2>
 
-- 👨‍💻 Actualmente estoy estudiando programación en el FullStack DevCamp de Bottega University y desarrollando mis habilidades en el desarrollo web.
-- 🌱 Me encanta aprender nuevas tecnologías y enfrentar desafíos.
-- 💼 Estoy en busca de oportunidades para poner en práctica mis conocimientos y contribuir en proyectos emocionantes.
+- 👨‍💻 Actualmente soy Teaching Assistant en el bootcamp de Ciberseguridad de BBK Bootcamp by The Bridge, apoyando al alumnado en ejercicios prácticos, resolución de dudas y proyectos. [file:1]
+- 🛡️ En ciberseguridad, tengo experiencia en pentesting, análisis de vulnerabilidades, Blue/Red Team, gestión de incidentes y cumplimiento normativo. [file:1]
+- 🌐 También tengo formación como desarrollador Full Stack (Bottega University), trabajando con front-end, back-end y buenas prácticas de desarrollo seguro. [file:1]
+- 🚀 Me mueven las ganas de aprender, compartir conocimiento y participar en proyectos donde la seguridad y la calidad del software sean clave. [file:1]
 
 <br>
 <h2 align="center">Mis habilidades</h2>
 
-- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/20px-HTML5_Badge.svg.png) **HTML**: Creación de estructuras sólidas y semánticas para páginas web.
-- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png) **CSS**: Diseño y estilización de páginas web, haciendo que sean atractivas y responsivas.
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/20px-Git-logo.svg.png) **Git**: Uso de Git para control de versiones y manejo eficiente del desarrollo de software.
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/20px-Octicons-mark-github.svg.png) **GitHub**: Colaboración en proyectos y gestión de repositorios utilizando GitHub como plataforma de alojamiento.
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/20px-Python-logo-notext.svg.png) **Python**: Explorando el amplio abanico de aplicaciones que ofrece este lenguaje versátil y amigable.
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/20px-Unofficial_JavaScript_logo_2.svg.png) **JavaScript**: En proceso de dominar esta poderosa herramienta para añadir interactividad y dinamismo a mis proyectos.
-- ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png) **React**: Construcción de interfaces de usuario dinámicas y escalables utilizando esta poderosa biblioteca de JavaScript.
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/20px-HTML5_Badge.svg.png) <b>HTML</b>: Maquetación semántica y estructuración clara de interfaces web. 
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png) <b>CSS</b>: Estilos modernos y diseño responsivo orientado a la usabilidad. 
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/20px-Git-logo.svg.png) <b>Git</b>: Control de versiones, ramas y flujos de trabajo colaborativos. 
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/20px-Octicons-mark-github.svg.png) <b>GitHub</b>: Gestión de repositorios, issues y proyectos, automatización con Actions. 
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/20px-Python-logo-notext.svg.png) <b>Python</b>: Scripts para automatización, análisis, pentesting y fundamentos de desarrollo backend. [file:1]
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/20px-Unofficial_JavaScript_logo_2.svg.png) <b>JavaScript</b>: Lógica de front-end y construcción de interfaces dinámicas. [file:1]
+- ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png) <b>React</b>: Creación de SPA, componentes reutilizables y consumo de APIs REST. [file:1]
 
+<br>
+<h2 align="center">Ciberseguridad</h2>
 
+- 🔐 Pentesting, auditorías y análisis de vulnerabilidades (eJPTv2 – Junior Penetration Tester). [file:1]
+- 🛡️ Blue/Red Team, análisis de redes, SIEM y bases de criptografía. [file:1]
+- 📚 Certificaciones y formación continua en hacking ético, cloud y normativas ISO/IEC 27001. [file:1]
 
 <br>
 <h2 align="center">Contacto</h2>
-¡Estoy emocionado por conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de:
-<br>
-<br>
+Si quieres hablar sobre ciberseguridad, desarrollo web o posibles colaboraciones, puedes encontrarme en:
+<br><br>
 
-- 📧 Email: rubens.bali@gmail.com
-- 🔗 LinkedIn: [Rubens Ballester](https://www.linkedin.com/in/rubens-ballester-lillo-336902bb/)
-- 🐦 Twitter: [@rupidev](https://twitter.com/rupidev)
+- 📧 Email: <a href="mailto:rubens.bali@gmail.com">rubens.bali@gmail.com</a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/rubensbl/">Rubens Ballester</a> [file:1]
+- 🐦 Twitter: <a href="https://twitter.com/rupidev">@rupidev</a>
 
+<br>
 ¡Gracias por visitar mi perfil! 😊
