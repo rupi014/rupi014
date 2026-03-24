@@ -1,8 +1,8 @@
 <h1 align="center">¡Hey 👋! Soy Rubens 👨🏻‍💻</h1> 
 <br>
-Soy técnico en ciberseguridad y desarrollador en formación, en plena transición profesional desde el ámbito sociosanitario hacia la protección de sistemas y el desarrollo de soluciones seguras. [file:1]
+Soy técnico en ciberseguridad y desarrollador, en plena transición profesional desde el ámbito sociosanitario hacia la protección de sistemas y el desarrollo de soluciones seguras. [file:1]
 <br>
-Combino mi experiencia previa como terapeuta y líder de equipos —pensamiento crítico, gestión de crisis y comunicación— con una fuerte orientación práctica a la ciberseguridad ofensiva y defensiva. [file:1]
+Combino mi experiencia previa como terapeuta ocupacional y líder de equipos —pensamiento crítico, gestión de crisis y comunicación— con una fuerte orientación práctica a la ciberseguridad ofensiva y defensiva. [file:1]
 <br>
 <br>
 
