@@ -35,6 +35,7 @@ Combino mi experiencia previa como terapeuta ocupacional y líder de equipos —
 <div align="center">
 
 [![eJPTv2](https://img.shields.io/badge/eJPTv2-Junior_Pentester-00AEEF?style=for-the-badge&logo=ine-security)](https://ine.com/)
+[![eWPT](https://img.shields.io/badge/eWPT-Web_Penetration_Tester-8E44AD?style=for-the-badge&logo=ine-security)](https://ine.com/)
 [![CEHPC](https://img.shields.io/badge/CEHPC-Ethical_Hacking-ff6b35?style=for-the-badge&logo=certiprof)](https://certiprof.com/)
 [![LCSPC](https://img.shields.io/badge/LCSPC-Lead_Cybersecurity-4CAF50?style=for-the-badge&logo=certiprof)](https://certiprof.com/)
 [![ISO27001F](https://img.shields.io/badge/ISO%2027001-Foundation-2196F3?style=for-the-badge&logo=iso)](https://www.iso.org/)
